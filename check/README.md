@@ -112,7 +112,7 @@ https://sahajewel.com
 
 <br/>
 _I live in japan_
- _I am from Bangladesh_
+
 ❤️❤️❤️
 
    
