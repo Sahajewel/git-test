@@ -20,6 +20,7 @@ I am living in Japan
 # Horizontal line
 <!-- * or underscore die o italic likha jai -->
  *I am from Bangladesh*   
+ _I am from Bangladesh_  
  _I am from Bangladesh_
 ---
 # strike through
@@ -102,6 +103,7 @@ https://sahajewel.com
 ![image-profile](https://cdn.pixabay.com/photo/2018/08/04/11/30/draw-3583548_1280.png)
 <br/>
 
+_I am from Bangladesh_
 <!-- table -->
 # Table
 |Name|Email|
